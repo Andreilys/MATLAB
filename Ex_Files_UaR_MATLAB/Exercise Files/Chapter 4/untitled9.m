@@ -1,0 +1,6 @@
+plot3(Date,Close,Volume)
+xlabel('Date')
+ylabel('Close')
+zlabel('Volume')
+title('S&P500')
+legend('S&P500')
